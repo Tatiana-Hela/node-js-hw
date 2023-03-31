@@ -1,5 +1,5 @@
 {
-  "name": "js-hw1",
+  "name": "node-js-hw",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tatiana-Hela/node-js-hw1.git"
+    "url": "git+https://github.com/Tatiana-Hela/node-js-hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tatiana-Hela/node-js-hw1/issues"
+    "url": "https://github.com/Tatiana-Hela/node-js-hw/issues"
   },
-  "homepage": "https://github.com/Tatiana-Hela/node-js-hw1#readme",
+  "homepage": "https://github.com/Tatiana-Hela/node-js-hw#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
